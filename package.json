@@ -1,0 +1,10 @@
+{
+  "name": "typescript",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@types/pdfmake": "^0.1.21",
+    "pdfmake": "^0.2.5",
+    "pdfmake-wrapper": "2.1.3"
+  }
+}
